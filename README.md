@@ -1,2 +1,5 @@
 # Blanks_Implementing_a_loan_approval
-Blanks_Implementing a loan approval in ML BootCamp with SDAIA.
+## ML project with SDAIA ML BootCamp
+### Module 2: Unleashing Data Potential
+#### Assignment 2
+
